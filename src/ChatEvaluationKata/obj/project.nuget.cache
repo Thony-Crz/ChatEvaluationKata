@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nfLKc0PomHs=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/ChatEvaluationKata/ChatEvaluationKata/src/ChatEvaluationKata/ChatEvaluationKata.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.extensions.ai.abstractions/9.10.1/microsoft.extensions.ai.abstractions.9.10.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.ai.evaluation/9.10.0/microsoft.extensions.ai.evaluation.9.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

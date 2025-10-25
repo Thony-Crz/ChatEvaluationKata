@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ChatEvaluationKata/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "9.10.1",
+          "Microsoft.Extensions.AI.Evaluation": "9.10.0"
+        },
+        "runtime": {
+          "ChatEvaluationKata.dll": {}
+        }
+      },
+      "Microsoft.Extensions.AI.Abstractions/9.10.1": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.AI.Abstractions.dll": {
+            "assemblyVersion": "9.10.0.0",
+            "fileVersion": "9.1000.125.52104"
+          }
+        }
+      },
+      "Microsoft.Extensions.AI.Evaluation/9.10.0": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "9.10.1"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.AI.Evaluation.dll": {
+            "assemblyVersion": "9.10.0.0",
+            "fileVersion": "9.1000.25.51303"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatEvaluationKata/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.AI.Abstractions/9.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e31P/WT7Pgx/9P6HNBUGEO0v9XyuZj6Dbekz4XeaP6v4GQ7jK1AllBiNTu1k2zx2x6upSeAmA6sRp6C2BgmMwQ==",
+      "path": "microsoft.extensions.ai.abstractions/9.10.1",
+      "hashPath": "microsoft.extensions.ai.abstractions.9.10.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.AI.Evaluation/9.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z9yEVDweE9KbyDodV8urNaL4jD7YzEmto063TEIO3VymNd4HYDDoDFdq2XtyHVC/PMgoXFngeenAfGADGRcpoA==",
+      "path": "microsoft.extensions.ai.evaluation/9.10.0",
+      "hashPath": "microsoft.extensions.ai.evaluation.9.10.0.nupkg.sha512"
+    }
+  }
+}
